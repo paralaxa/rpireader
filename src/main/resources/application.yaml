@@ -1,0 +1,6 @@
+rpi:
+  companyId: 974ad7ad-37ae-44f5-9561-d54b5fe20989
+  sender.sendingDelayMs: 500
+  kafka:
+    server: 192.168.0.105:9092
+    producer.topic: meteodata
